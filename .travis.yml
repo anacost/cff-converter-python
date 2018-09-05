@@ -8,6 +8,9 @@ notifications:
   email: 
     on_failure: change
     on_succes: never
+os: 
+  - osx
+  - linux
 python: 
   - "3.4"
   - "3.5"
