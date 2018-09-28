@@ -1,4 +1,5 @@
 click==6.7
-PyYAML==3.12
+PyYAML==3.13
 requests==2.18.4
 pykwalifire==2.0.1
+ruamel.yaml==0.15.71
